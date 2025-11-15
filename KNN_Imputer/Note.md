@@ -58,6 +58,7 @@ Distances (conceptually):
 So, the 2 nearest neighbors are A and D.
 
 2. Collect Neighbor Math Scores
+   
 | Neighbor | Math |
 | -------- | ---- |
 | A        | 85   |
