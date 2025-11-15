@@ -16,7 +16,7 @@ Feature selection methods are essential in data science and machine learning for
 
 
 # Types of Feature Selection Methods
-!. Filter Methods
+1. Filter Methods
 
 2. Wrapper Methods
    
